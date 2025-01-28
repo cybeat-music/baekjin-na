@@ -1,0 +1,34 @@
+foobar2000 1.3.16 / Dynamic Range Meter 1.1.1
+log date: 2018-03-05 17:17:31
+
+--------------------------------------------------------------------------------
+Analyzed: Linkin Park / Hybrid Theory
+2000 - Hybrid Theory (Deluxe Edition) (2016) [FLAC - 24 bit 96 kHz] (mora.jp)
+--------------------------------------------------------------------------------
+
+DR         Peak         RMS     Duration Track
+--------------------------------------------------------------------------------
+DR10       0.00 dB   -11.43 dB      3:05 01-Papercut
+DR10      -0.07 dB   -11.65 dB      2:36 02-One Step Closer
+DR10      -0.41 dB   -11.88 dB      3:23 03-With You
+DR10      -0.41 dB   -12.39 dB      3:21 04-Points Of Authority
+DR10      -0.70 dB   -13.32 dB      3:28 05-Crawling
+DR10      -0.39 dB   -11.82 dB      3:06 06-Runaway
+DR10       0.00 dB   -12.09 dB      3:10 07-By Myself
+DR10       0.00 dB   -12.33 dB      3:36 08-In The End
+DR10       0.00 dB   -12.10 dB      3:05 09-A Place For My Head
+DR10       0.00 dB   -11.34 dB      3:14 10-Forgotten
+DR10      -0.42 dB   -13.50 dB      2:37 11-Cure For The Itch
+DR10      -0.13 dB   -11.60 dB      3:13 12-Pushing Me Away
+--------------------------------------------------------------------------------
+
+Number of tracks:  12
+Official DR value: DR10
+
+Samplerate:        192000 Hz
+Channels:          2
+Bits per sample:   24
+Bitrate:           5815 kbps
+Codec:             FLAC
+================================================================================
+
